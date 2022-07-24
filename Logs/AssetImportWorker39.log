@@ -1,0 +1,26 @@
+Unity Editor version:    2021.3.6f1 (7da38d85baf6)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.4 (Build 21F79)
+Darwin version:          21.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.3.6f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker39
+-projectPath
+/Volumes/Projects/Software Development/Projects/Game dev/Personal Project
+-logFile
+Logs/AssetImportWorker39.log
+-srvPort
+49200
+Successfully changed project path to: /Volumes/Projects/Software Development/Projects/Game dev/Personal Project
